@@ -1,2 +1,2 @@
 # COPTER
-This is a small Copter program using the basic C++ graphics library.
+Implementation of the classic Copter Game using the basic C++ graphics library.
